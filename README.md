@@ -1,7 +1,8 @@
 
+## Hello! My name is Artem.
 ## I'm a Junior QA Engineer . 
 ## My CV
-[Link to my CV]()
+[Link to my CV](https://hh.kz/resume/86d31eb3ff0990e2e60039ed1f47474c475655)
 
 
 
@@ -13,7 +14,7 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=71b556)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/channel/UCHCoztE1sTjzOao_GEt1ChA)
