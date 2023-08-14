@@ -1,7 +1,7 @@
 
-## Hello! My name is Artem. I'm a Junior QA Engineer. EN/RU language
+## Hello! My name is Artem. I'm a Frontend developer. EN/RU language
 ## My CV
-[Link to my CV](https://hh.kz/resume/86d31eb3ff0990e2e60039ed1f47474c475655)
+[Link to my CV](It will be my CV when I'll be better)
 
 
 
@@ -22,10 +22,3 @@
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Wowsleep)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artem-kozlov-399482258/)
 
-### Testing Documentation
-
-- [Checklists](https://github.com/Wowsleep/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/Wowsleep/Test-Suites-and-Test-Cases)
-- [Bug-Reports](https://github.com/Wowsleep/Bug-Reports)
-- [SQL Queries](https://github.com/Wowsleep/SQL-Queries)
-- [Postman Collections](https://github.com/Wowsleep/Postman-Collections)
